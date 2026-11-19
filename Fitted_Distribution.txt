@@ -1,0 +1,4 @@
+N_observed	158
+Best_distribution	wald
+RSS	1.309983654736295e-12
+Parameters	(np.float64(-26652.08742955811), np.float64(125446.2473928807))
